@@ -1,0 +1,5 @@
+Meirylene Avelino reforçou a importância da cultura de segurança no dia a dia de todas as pessoas como forma de evitar golpes de engenharia social. Elabore pelo menos uma técnica empregada numa API Web que pode evitar com que usuários sejam vítimas de golpes de engenharia social.
+
+Neste caso podemos utilizar o Verificação de Identidade Multifatorial (MFA) em nossas APIs. A autenticação multifatorial (MFA) é um processo de login em várias etapas que exige do usuário mais do que apenas uma senha. Além da senha, pode ser solicitado que ele insira um código enviado por e-mail ou SMS, responda a uma pergunta de segurança ou utilize uma impressão digital. Dessa forma, mesmo que a senha seja comprometida, a verificação adicional impede o acesso não autorizado à conta.
+
+https://aws.amazon.com/pt/what-is/mfa/
